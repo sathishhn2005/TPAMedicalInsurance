@@ -1,0 +1,163 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalInsurance.UI", "TPAMedicalInsurance.UI\TPAMedicalInsurance.UI.csproj", "{58843685-52A1-4678-8264-F77AB53F98EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalAdministrationBAL", "TPAMedicalAdministrationBAL\TPAMedicalAdministrationBAL.csproj", "{8A5A714E-0C66-4F3C-8EB4-63E9AC846246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalProductBAL", "TPAMedicalProductBAL\TPAMedicalProductBAL.csproj", "{4616BB8F-FBB6-4CD9-873E-2F9A2271E8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalPolicyManagementBAL", "TPAMedicalPolicyManagementBAL\TPAMedicalPolicyManagementBAL.csproj", "{A707E8E5-B3EF-47E6-A89C-2FB89E947A53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalProviderBAL", "TPAMedicalProvider\TPAMedicalProviderBAL.csproj", "{65651377-08AC-4C1B-AD4B-E5D3B94B8598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalClaimsBAL", "TPAMedicalClaimsBAL\TPAMedicalClaimsBAL.csproj", "{104B4105-6269-4959-BCD4-5AE36CC1B0C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalPaymentBAL", "TPAMedicalPaymentBAL\TPAMedicalPaymentBAL.csproj", "{6766B7F3-D0EF-4EC2-9FB7-F74764C0142E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalCustomerServiceBAL", "TPAMedicalCustomerServiceBAL\TPAMedicalCustomerServiceBAL.csproj", "{5E9F0F1B-65DA-457D-9B8D-51CD9641F04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalReInsuranceBAL", "TPAMedicalReInsuranceBAL\TPAMedicalReInsuranceBAL.csproj", "{B047AA58-43FB-4A91-8E78-437F07B6F7B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalReportingAnalyticsBAL", "TPAMedicalReportingAnalyticsBAL\TPAMedicalReportingAnalyticsBAL.csproj", "{FE8BA078-2774-455D-9E58-64FF85D81D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalSalesBAL", "TPAMedicalSalesBAL\TPAMedicalSalesBAL.csproj", "{076705D5-8256-46E0-A238-2100A2136D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalAdministrationDAL", "TPAMedicalAdministrationDAL\TPAMedicalAdministrationDAL.csproj", "{0447428A-0AC7-4B22-A06B-43CCE74AC2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalProductDAL", "TPAMedicalProductDAL\TPAMedicalProductDAL.csproj", "{E927415E-D1CE-4452-A4DF-E7DB3B8DC6B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalProviderDAL", "TPAMedicalProviderDAL\TPAMedicalProviderDAL.csproj", "{3FA1D851-1995-44A7-B96F-F1A3FB72E21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalClaimsDAL", "TPAMedicalClaimsDAL\TPAMedicalClaimsDAL.csproj", "{BE69FA99-24BF-46FF-BC7F-2A6C21FD746D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalPaymentDAL", "TPAMedicalPaymentDAL\TPAMedicalPaymentDAL.csproj", "{A73698D8-A2E3-43E0-9543-DEF82192897D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalCustomerServiceDAL", "TPAMedicalCustomerServiceDAL\TPAMedicalCustomerServiceDAL.csproj", "{9C5729A6-8AD2-4E97-A059-189E86B09512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalReInsuranceDAL", "TPAMedicalReInsuranceDAL\TPAMedicalReInsuranceDAL.csproj", "{D4754942-4E22-4A69-9368-33D886346F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalReportingAnalyticsDAL", "TPAMedicalReportingAnalyticsDAL\TPAMedicalReportingAnalyticsDAL.csproj", "{8B475243-0A0F-49E9-91E0-417A57609770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalSalesDAL", "TPAMedicalSalesDAL\TPAMedicalSalesDAL.csproj", "{51FBF4A7-D0A1-4B93-BD81-BA60FFF238CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalPolicyManagementDAL", "TPAMedicalPolicyManagementDAL\TPAMedicalPolicyManagementDAL.csproj", "{DCAB65BE-D11D-411A-B171-66581549DFFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalDBEngine", "TPAMedicalDBEngine\TPAMedicalDBEngine.csproj", "{56D01B1A-8FFD-4D54-BC42-E8AF0DAACB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalBusinessEntities", "TPAMedicalBusinessEntities\TPAMedicalBusinessEntities.csproj", "{D8F7C271-ECB7-4A25-9403-7340F68AA0A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPAMedicalUtility", "TPAMedicalUtility\TPAMedicalUtility.csproj", "{627B622C-8E5B-4F6C-B3E3-CBFB272B5FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58843685-52A1-4678-8264-F77AB53F98EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58843685-52A1-4678-8264-F77AB53F98EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58843685-52A1-4678-8264-F77AB53F98EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58843685-52A1-4678-8264-F77AB53F98EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5A714E-0C66-4F3C-8EB4-63E9AC846246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5A714E-0C66-4F3C-8EB4-63E9AC846246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5A714E-0C66-4F3C-8EB4-63E9AC846246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5A714E-0C66-4F3C-8EB4-63E9AC846246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4616BB8F-FBB6-4CD9-873E-2F9A2271E8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4616BB8F-FBB6-4CD9-873E-2F9A2271E8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4616BB8F-FBB6-4CD9-873E-2F9A2271E8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4616BB8F-FBB6-4CD9-873E-2F9A2271E8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A707E8E5-B3EF-47E6-A89C-2FB89E947A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A707E8E5-B3EF-47E6-A89C-2FB89E947A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A707E8E5-B3EF-47E6-A89C-2FB89E947A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A707E8E5-B3EF-47E6-A89C-2FB89E947A53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65651377-08AC-4C1B-AD4B-E5D3B94B8598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65651377-08AC-4C1B-AD4B-E5D3B94B8598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65651377-08AC-4C1B-AD4B-E5D3B94B8598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65651377-08AC-4C1B-AD4B-E5D3B94B8598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104B4105-6269-4959-BCD4-5AE36CC1B0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104B4105-6269-4959-BCD4-5AE36CC1B0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104B4105-6269-4959-BCD4-5AE36CC1B0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104B4105-6269-4959-BCD4-5AE36CC1B0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6766B7F3-D0EF-4EC2-9FB7-F74764C0142E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6766B7F3-D0EF-4EC2-9FB7-F74764C0142E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6766B7F3-D0EF-4EC2-9FB7-F74764C0142E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6766B7F3-D0EF-4EC2-9FB7-F74764C0142E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9F0F1B-65DA-457D-9B8D-51CD9641F04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9F0F1B-65DA-457D-9B8D-51CD9641F04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9F0F1B-65DA-457D-9B8D-51CD9641F04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9F0F1B-65DA-457D-9B8D-51CD9641F04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B047AA58-43FB-4A91-8E78-437F07B6F7B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B047AA58-43FB-4A91-8E78-437F07B6F7B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B047AA58-43FB-4A91-8E78-437F07B6F7B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B047AA58-43FB-4A91-8E78-437F07B6F7B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8BA078-2774-455D-9E58-64FF85D81D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8BA078-2774-455D-9E58-64FF85D81D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8BA078-2774-455D-9E58-64FF85D81D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8BA078-2774-455D-9E58-64FF85D81D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{076705D5-8256-46E0-A238-2100A2136D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076705D5-8256-46E0-A238-2100A2136D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076705D5-8256-46E0-A238-2100A2136D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076705D5-8256-46E0-A238-2100A2136D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0447428A-0AC7-4B22-A06B-43CCE74AC2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0447428A-0AC7-4B22-A06B-43CCE74AC2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0447428A-0AC7-4B22-A06B-43CCE74AC2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0447428A-0AC7-4B22-A06B-43CCE74AC2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E927415E-D1CE-4452-A4DF-E7DB3B8DC6B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E927415E-D1CE-4452-A4DF-E7DB3B8DC6B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E927415E-D1CE-4452-A4DF-E7DB3B8DC6B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E927415E-D1CE-4452-A4DF-E7DB3B8DC6B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA1D851-1995-44A7-B96F-F1A3FB72E21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA1D851-1995-44A7-B96F-F1A3FB72E21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA1D851-1995-44A7-B96F-F1A3FB72E21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA1D851-1995-44A7-B96F-F1A3FB72E21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE69FA99-24BF-46FF-BC7F-2A6C21FD746D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE69FA99-24BF-46FF-BC7F-2A6C21FD746D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE69FA99-24BF-46FF-BC7F-2A6C21FD746D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE69FA99-24BF-46FF-BC7F-2A6C21FD746D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A73698D8-A2E3-43E0-9543-DEF82192897D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73698D8-A2E3-43E0-9543-DEF82192897D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73698D8-A2E3-43E0-9543-DEF82192897D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73698D8-A2E3-43E0-9543-DEF82192897D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5729A6-8AD2-4E97-A059-189E86B09512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5729A6-8AD2-4E97-A059-189E86B09512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5729A6-8AD2-4E97-A059-189E86B09512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5729A6-8AD2-4E97-A059-189E86B09512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4754942-4E22-4A69-9368-33D886346F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4754942-4E22-4A69-9368-33D886346F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4754942-4E22-4A69-9368-33D886346F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4754942-4E22-4A69-9368-33D886346F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B475243-0A0F-49E9-91E0-417A57609770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B475243-0A0F-49E9-91E0-417A57609770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B475243-0A0F-49E9-91E0-417A57609770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B475243-0A0F-49E9-91E0-417A57609770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FBF4A7-D0A1-4B93-BD81-BA60FFF238CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FBF4A7-D0A1-4B93-BD81-BA60FFF238CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FBF4A7-D0A1-4B93-BD81-BA60FFF238CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FBF4A7-D0A1-4B93-BD81-BA60FFF238CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAB65BE-D11D-411A-B171-66581549DFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAB65BE-D11D-411A-B171-66581549DFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAB65BE-D11D-411A-B171-66581549DFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAB65BE-D11D-411A-B171-66581549DFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D01B1A-8FFD-4D54-BC42-E8AF0DAACB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D01B1A-8FFD-4D54-BC42-E8AF0DAACB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D01B1A-8FFD-4D54-BC42-E8AF0DAACB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D01B1A-8FFD-4D54-BC42-E8AF0DAACB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F7C271-ECB7-4A25-9403-7340F68AA0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F7C271-ECB7-4A25-9403-7340F68AA0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F7C271-ECB7-4A25-9403-7340F68AA0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F7C271-ECB7-4A25-9403-7340F68AA0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627B622C-8E5B-4F6C-B3E3-CBFB272B5FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627B622C-8E5B-4F6C-B3E3-CBFB272B5FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627B622C-8E5B-4F6C-B3E3-CBFB272B5FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627B622C-8E5B-4F6C-B3E3-CBFB272B5FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9096B06D-238D-4DB3-84D5-F827DAB399BB}
+	EndGlobalSection
+EndGlobal
